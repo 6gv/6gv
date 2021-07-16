@@ -20,7 +20,9 @@
 
 (Java) Legend+ - (Repo deleted)
 
-(Lua) CL - https://github.com/k6w/CL
+(Lua) Pyro - https://github.com/k6w/Pyro
+
+(Lua) PyroP - https://github.com/k6w/Pyrop
 
 (Lua) Skeethook - https://github.com/Legend-Development/Skeethook
 
