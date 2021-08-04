@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k6w" alt="k6w" /> </p>
 
-# Projects (privates)
+# Projects (some privates)
 
 (Java) Legend - https://github.com/k6w/Legend-Source
 
