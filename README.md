@@ -1,41 +1,16 @@
-<p align="center">
-  <img src="https://i.imgur.com/KFSUYFn.gif" />
-  
-<p align="center">
-  FiftyThr33
+<p align='center'>
+    Go follow my main github, https://github.com/qe7
 </p>
 
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=6gv&&show_icons=true&include_all_commits=true&theme=dracula"/>
+</p>
 
-# Stats
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=k6w&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k6w&theme=dark&layout=compact)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k6w" alt="k6w" /> </p>
-
-# Projects (some privates)
-
-(Java) Legend - https://github.com/k6w/Legend-Source
-
-(Java) Legend+ - (Repo deleted)
-
-(Lua) Pyro - https://github.com/k6w/Pyro
-
-(Lua) PyroP - https://github.com/k6w/Pyrop
-
-(Lua) Skeethook - https://github.com/Legend-Development/Skeethook
-
-(Java) Insanity.cc - (Repo deleted)
-
-(Java) idea+ - https://github.com/notzopac/ideaplus
-
-# Contacts
-
-email - 999shae@gmail.com (dont check alot)
- 
-Discord - Shae#0666 (Active 90% of the time I am awake)
-
-# Credits
-
-Fucking zopac because I saw this on his github https://github.com/zopac
+<p align='center'>
+    <img src="https://img.shields.io/badge/java-991010?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-991010?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-991010?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ-991010?style=for-the-badge&logo=intellij-idea&color=991010&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=6gv&label=Views&color=991010&style=flat-square" alt="stats">
+    <img src="https://img.shields.io/github/followers/6gv?label=follow&style=social" alt="stats"/>
+</p>
